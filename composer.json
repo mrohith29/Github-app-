@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/oauth2-client": "^2.7",
+        "league/oauth2-github": "^3.1"
+    }
+}
